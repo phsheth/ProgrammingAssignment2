@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Makes a matrix cache and retrieves it after checkig if it is square or not.
 
 #The first function, makeCacheMatrix creates a special "vector", which is really a list containing a function to:
 
