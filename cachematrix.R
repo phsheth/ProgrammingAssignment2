@@ -21,13 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
     } else {
       x
     }
-    
-    
-    
-    
   }
-  
-  
   setinv <- function(solve) matinv <<- solve
   getinv <- function() matinv
   list(setinv = set, get = get,
